@@ -1,0 +1,10 @@
+{
+  "name": "地域新規求人倍率",
+  "short_name": "地域新規倍率",
+  "description": "全国・47労働局の新規求人倍率と元件数を比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f0ea",
+  "theme_color": "#4a2a3a",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
